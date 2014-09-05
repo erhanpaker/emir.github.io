@@ -24,6 +24,30 @@ layout: default
   </ul>
 </div>
 
+<div class="byline clearfix" id="bl">
+  <div class="byline-left">
+    <p class="sm">
+    <span style="font-weight:lighter!important;">By </span><a href="https://plus.google.com/{{page.author.google_plus}}?rel=author" rel="author">Emir Karşıyakalı</a>
+    </p>
+    <p class="sm" style="font-weight:lighter;font-style:italic;text-decoration:underline;"><a href="mailto:emir@eemir.im">emir@emir.im</a>
+    </p>
+  </div>
+  <div class="byline-right">
+    <p class="sm">Share&#58;</p>
+    <p style="margin-top:0px;display:inline-flex;word-spacing:0px;">
+      <a id="twttr" href="https://twitter.com/share?text={{page.title}}%20via%20@EmirKarsiyakali&url={{site.url}}{{page.url}}">
+        <i class="fa fa-twitter"></i>
+      </a>
+      <a id="fb" href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}">
+        <i class="fa fa-facebook"></i>
+      </a>
+      <a id="gplus" href="https://plus.google.com/share?url={{site.url}}{{page.url}}">
+        <i class="fa fa-google-plus"></i>
+      </a>
+    </p>
+  </div>
+</div>
+
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script type="text/javascript">
