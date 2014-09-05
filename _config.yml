@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Emir Karşıyakalı
+tagline:          'Web Geliştirici'
+description:      "PHP, Ruby ve JavaScript yazıyor, açık kaynağa ilgi duyuyorum. Ekip Lideri olarak çalışıyorum. Yanlış bildiğimce, PHP'in doğru kullanımını yaymak için burdayım."
+url:              http://emir.im
+baseurl:          '/'
+paginate:         5
+
+author:
+  name:           'Emir Karşıyakalı'
+  url:            https://twitter.com/EmirKarsiyakali
+  email: 		  emirkarsiyakali@gmail.com
+  google_plus: 	  https://plus.google.com/+EmirKarşıyakalı
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/emir/emir.github.io
