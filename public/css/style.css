@@ -1,0 +1,12 @@
+#navlist {
+	float: left;
+	padding-left: 0px;
+}
+
+#navlist li {
+	display: inline;
+	float: left;
+	list-style-type: none;
+	padding-right: 5px;
+	padding-left: 0px;
+}
