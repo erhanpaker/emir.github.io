@@ -8,7 +8,7 @@ permalink:        :title
 # Setup
 title:            Emir Karşıyakalı
 tagline:          'Web Geliştirici'
-description:      "PHP, Ruby ve JavaScript yazıyor, açık kaynağa ilgi duyuyorum. İstanbul'da yaşıyor, Yazılım Ekip Lideri olarak çalışıyorum. Yanlış bildiğimce, PHP'in doğru kullanımını yaymak için burdayım."
+description:      "PHP, Ruby ve JavaScript yazıyor, açık kaynağa ilgi duyuyorum. İstanbul'da yaşıyor, Yazılım Ekip Lideri olarak çalışıyorum."
 url:              http://emir.im
 baseurl:          '/'
 paginate:         5
