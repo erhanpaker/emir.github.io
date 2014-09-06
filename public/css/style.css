@@ -1,6 +1,7 @@
 #navlist {
 	float: left;
-	padding-left: 0px;
+	padding-left: 0;
+    margin-bottom: 0 !important;
 }
 
 #navlist li {
@@ -8,7 +9,7 @@
 	float: left;
 	list-style-type: none;
 	padding-right: 5px;
-	padding-left: 0px;
+	padding-left: 0;
 }
 
 .byline-left {
@@ -26,14 +27,14 @@
     margin: 2em auto 0
 }
 .byline p {
-    margin: 0px;
+    margin: 0;
 }
 .byline a i {
     text-align: center;
     padding: .1em;
     font-size: 125%;
     color: #BBC7CC;
-    margin: 0 10px 0 0;
+    margin: 0 10 0 0;
     width: 32px;
     height: 32px;
     text-align: center;
