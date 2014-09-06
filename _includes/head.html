@@ -28,7 +28,7 @@
   <!-- Facebook Open Graph -->
   <meta content="{{ site.title }}" property="og:site_name">
   {% if page.title %}
-  <meta content="{{ page.title }}" property="og:title">
+  <meta content="{{ page.title }} - {{ site.title }}" property="og:title">
   {% else %}
   <meta content="{{ site.title }}" property="og:title">
   {% endif %}
@@ -70,7 +70,7 @@
   <meta name="twitter:site" content="@EmirKarsiyakali">
   <meta name="twitter:creator" content="@EmirKarsiyakali">
   {% if page.title %}
-    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:title" content="{{ page.title }} - {{ site.title }}">
   {% else %}
     <meta name="twitter:title" content="{{ site.title }}">
   {% endif %}
