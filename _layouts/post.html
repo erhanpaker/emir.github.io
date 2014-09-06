@@ -4,7 +4,6 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
 </div>
 
@@ -27,9 +26,10 @@ layout: default
 <div class="byline clearfix" id="bl">
   <div class="byline-left">
     <p class="sm">
-    <span style="font-weight:lighter!important;">By </span><a href="{{site.author.google_plus}}?rel=author" rel="author">Emir Karşıyakalı</a>
+    <span style="font-weight:lighter!important;"></span><a target="_blank" href="{{site.author.google_plus}}?rel=author" rel="author">Emir Karşıyakalı</a> tarafından,
     </p>
-    <p class="sm" style="font-weight:lighter;font-style:italic;text-decoration:underline;"><a href="mailto:emir@eemir.im">emir@emir.im</a>
+    <p class="sm" style="font-weight:lighter;font-style:italic;">
+      <span class="post-date">{{ page.date | date_to_string }} tarihinde <a href="/search.html?category={{ page.category }}">{{ page.category }}</a> kategorisinde yayınlanmış.</span>
     </p>
   </div>
   <div class="byline-right">
