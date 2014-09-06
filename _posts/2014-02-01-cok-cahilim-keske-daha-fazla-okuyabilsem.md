@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Çok cahilim, keşke daha fazla okuyabilsem
+description: CEO olup vay efendim Founder olup babadan yol ve sigara için haftalık harçlık almayı ve minibüse artık öğrenci veremiyor olmamı saymassak, ilk hayal kırıklığım...
 category: Kişisel
 comments: true
 ---
