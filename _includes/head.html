@@ -4,7 +4,7 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
   <title>
-    {% if page.title == "Home" %}
+    {% if page.title == "Anasayfa" %}
       {{ site.title }} &middot; {{ site.tagline }}
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
@@ -14,7 +14,7 @@
   {% if page.description %}
   <meta name="description" content="{{ page.description }}">
   {% else %}
-  <meta name="description" content="Bir diğer Web Geliştirici blogu.">
+  <meta name="description" content="{{ site.description }}">
   {% endif %}
   {% if page.keywords %}
   <meta name="description" content="{{ page.keywords }}">
