@@ -22,6 +22,6 @@ Topluluk projesi olarak anıyor olacağım ve burada yazacaklarım henüz sizler
 
 Son birkaç ay içerisinde PHPKonf organizasyon olmaktan çıkıp topluluğa evrildiği için hem bugün hem de ileriye dönük paylaşmak istediğimiz birçok şey birikti. Bunları toparlamak adına yeni bir web sitesine ihtiyacımız var. Ama bu web sitesinin yine sizlerin desteği ile Modern PHP, Laravel 5 öğrenmek için bir kaynak, örnek olacak bir topluluk projesi olmasını hedefliyorum. Bu bağlamda GitHub üzerinde örnek bir repo [oluşturdum](https://github.com/phpkonf/phpkonf.ini), bir commit [attım](https://github.com/phpkonf/phpkonf.ini/commit/18ff8eac5bcbe903a7ea95c22ba09162d82b2ad4) ve Wiki’ye birkaç şey [karaladım](https://github.com/phpkonf/phpkonf.ini/wiki).
 
-[Ruby Türkiye](http://rubyturkiye.org) ve [Python Istanbul](http://pyistanbul.org) da projeyi destekler ve sahiplenirse ortaya farklı platformlarda herkesin yararlanabileceği, kitap gibi okuyabileceği harika bir iş çıkaracağımızdan hiçbir şüphem yok.
+[Ruby Türkiye](http://www.rubyturkiye.org) ve [Python Istanbul](http://pyistanbul.org) da projeyi destekler ve sahiplenirse ortaya farklı platformlarda herkesin yararlanabileceği, kitap gibi okuyabileceği harika bir iş çıkaracağımızdan hiçbir şüphem yok.
 
 Benden şimdilik bu kadar, [Wiki](https://github.com/phpkonf/phpkonf.ini/wiki)’e de baktıktan sonra, konuyla ilgili yorumlarınızı, katkılarınızı bekliyorum…
